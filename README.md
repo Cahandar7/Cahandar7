@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cahandar, a frontend developer passionate about building modern, responsive, and user-friendly web applications.
+# 👋 Hi, I'm Cahandar
 Want a crazy awesome website? Let's Discuss! 🚀<br>🔭 I’m currently working as: A frontend developer<br>👯 I’m looking to collaborate on: Exciting web projects using React<br>🤝 I’m looking for help with: Advanced animations and UI/UX improvements<br>🌱 I’m currently learning: React, Firebase, and improving performance optimization<br>💬 Ask me about: JavaScript, React, and frontend best practices<br>⚡ Fun fact: I can spend hours perfecting a UI without realizing time is flying! ⏳🎨
 
 
