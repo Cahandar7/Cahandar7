@@ -1,5 +1,12 @@
-# 👋 Hi, I'm Cahandar
-Want a crazy awesome website? Let's Discuss! 🚀<br>🔭 I’m currently working as: A frontend developer<br>👯 I’m looking to collaborate on: Exciting web projects using React<br>🤝 I’m looking for help with: Advanced animations and UI/UX improvements<br>🌱 I’m currently learning: React, Firebase, and improving performance optimization<br>💬 Ask me about: JavaScript, React, and frontend best practices<br>⚡ Fun fact: I can spend hours perfecting a UI without realizing time is flying! ⏳🎨
+# 👋 Hi, I'm Cahandar  
+Want a crazy awesome website or app? Let's Discuss! 🚀  
+🔭 I’m currently working as: A Full Stack Developer  
+👯 I’m looking to collaborate on: Exciting projects using React, Node.js, and databases  
+🤝 I’m looking for help with: Backend scalability and advanced DevOps practices  
+🌱 I’m currently learning: PostgreSQL, Redis, and cloud deployment  
+💬 Ask me about: JavaScript, React, Node.js, and database design  
+⚡ Fun fact: I can spend hours optimizing both frontend and backend code without noticing time! ⏳💻
+
 
 
 ## 🌐 Socials:
